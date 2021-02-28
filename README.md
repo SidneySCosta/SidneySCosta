@@ -1,7 +1,7 @@
-### Hi there 👋
+
 # :zap:Sidney Costa
 
-### FullStack Developer :computer:
+**FullStack Developer** :computer:
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-costa-200510)
 
