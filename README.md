@@ -1,16 +1,23 @@
 ### Hi there 👋
+# :zap:Sidney Costa
 
-<!--
-**SidneySCosta/SidneySCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FullStack Developer :computer:
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-costa-200510)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  :rocket: I’m currently working on **[Digitus Sistemas](https://digituss.com.br/ds/).**
+
+- ⚡ Currently mastering **HTML, JavaScript, Bootstrap, PHP, PostgreSql**. 
+
+- 🌱 I’m currently learning **ReactJS, React Native, NodeJS**.
+
+- :email: How to reach me: **sidneycosta156@gmail.com**  
+
+- 🎮 Fun fact: Ps4, Fifa, Cod e Battlefield✌️
+
+<p align="center">
+<a href="https://twitter.com//SidneyCostah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SidneyCostah" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sidney-costa-200510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sidney-costa-200510" height="20" width="20" /></a>
+<a href="https://instagram.com/osidneycosta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="osidneycosta" height="20" width="20" /></a>
+</p>
+
